@@ -1,7 +1,7 @@
 {
-  "name": "dv_test",
-  "version": "1.0.0",
-  "description": "DefiantVideos Test Bot",
+  "name": "hh_offical",
+  "version": "3.2.8",
+  "description": "HH Offical Bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.3.2",
+    "mongoose": "^5.5.2",
     "ms": "^2.1.1"
   }
 }

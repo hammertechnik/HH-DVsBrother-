@@ -1,5 +1,5 @@
 //KappaOS 3
-//Made by Lord Bidoof
+//Made by Hammer1279
 
 const Discord = require('discord.js')
 const fs = require('fs')
